@@ -6,7 +6,8 @@ A Claude Code skill for expert assistance with the [Community Health Toolkit (CH
 
 This is a **Claude Code skill** that provides comprehensive guidance for CHT development, configuration, troubleshooting, and architecture. When installed, Claude Code gains deep expertise in:
 
-- **Forms** - XLSForm/XForm creation with CHT-specific extensions
+- **ODK/XLSForm** - Complete ODK form syntax, question types, logic, functions, groups, repeats, external data, styling, and more
+- **CHT Forms** - CHT-specific extensions, widgets (contact selector, countdown timer), and XPath functions
 - **Tasks** - Task scheduling and workflow configuration (tasks.js)
 - **Targets** - Analytics and KPI definition (targets.js)
 - **Contact Summary** - Profile page customization
